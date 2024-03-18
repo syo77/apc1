@@ -1,5 +1,6 @@
 .ccls-cache
 .replit
+.local
 replit.nix
 
 # Prerequisites
