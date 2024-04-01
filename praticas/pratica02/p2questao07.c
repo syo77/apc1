@@ -23,6 +23,6 @@ int main() {
   printf("Valor IR........: R$ \x1b[31m%8.2f\x1b[0m\n", valor_ir);
   printf("Valor INSS......: R$ \x1b[31m%8.2f\x1b[0m\n", valor_inss);
   printf("Salario Liquido.: R$ \x1b[34m%8.2f\x1b[0m\n", salario_liquido);
-      
+
   return 0;
 }

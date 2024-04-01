@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 .ccls-cache
 .replit
 .local
 replit.nix
 
+=======
+>>>>>>> 54d00c9 (Initial commit)
 # Prerequisites
 *.d
 

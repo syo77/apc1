@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repositório da Disciplina APC 1
 
 Este repositório foi criado com o objetivo de armazenar e organizar os códigos desenvolvidos durante as aulas e atividades práticas da disciplina.
@@ -11,3 +12,6 @@ Nesta pasta, você encontrará os códigos referentes às aulas expositivas. Sã
 
 ### 2. Práticas
 Aqui estão armazenados os códigos correspondentes às atividades práticas. Essas práticas visam fortalecer os conceitos aprendidos em sala, proporcionando oportunidades para aplicação e exercício das habilidades adquiridas.
+=======
+# apc1
+>>>>>>> 54d00c9 (Initial commit)
