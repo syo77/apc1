@@ -16,6 +16,5 @@ float celsius, fahrenheit;
   printf("\x1b[35mA temperatura em graus Fahrenheit é %.1f\x1b[0m\n", fahrenheit);
   
 
-
   return 0;
 }
