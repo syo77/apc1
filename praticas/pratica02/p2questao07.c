@@ -1,5 +1,7 @@
 /*
-Faça um programa em C que leia o valor da hora de trabalho e o total de horas trabalhadas no mês e calcule o salário bruto, o salário líquido, e os impostos descontados. Considere IR igual a 25% e INSS igual a 11%.
+Faça um programa em C que leia o valor da hora de trabalho e o total de horas
+trabalhadas no mês e calcule o salário bruto, o salário líquido, e os impostos
+descontados. Considere IR igual a 25% e INSS igual a 11%.
 */
 
 #include <stdio.h>

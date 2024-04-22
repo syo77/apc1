@@ -16,6 +16,6 @@ int main() {
   const char SEXO_MASCULINO = 1;
 
   sexo = SEXO_MASCULINO;
-  
+
   return 0;
 }

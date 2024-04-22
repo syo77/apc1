@@ -1,11 +1,11 @@
 /*
-1. Faça um programa em C que leia três números reais e imprima a média aritmética desses números.
+1. Faça um programa em C que leia três números reais e imprima a média
+aritmética desses números.
 */
 
 #include <stdio.h>
 
-int main()
-{
+int main() {
 
   float num1, num2, num3;
 
@@ -21,7 +21,6 @@ int main()
   float media = (num1 + num2 + num3) / 3;
 
   printf("\x1b[35mA média aritmética dos números é %.2f\x1b[0m\n", media);
-
 
   return 0;
 }
