@@ -35,6 +35,8 @@ int main() {
 
   /* IF = Se. Tem 2 caminhos pode ir pro caminho falso ou o verdadeiro.
 
+  ELSE IF = Se não se --> Isso
+
   ELSE = se for falso aparece tal coisa
   */
 
