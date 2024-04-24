@@ -30,6 +30,7 @@ int main() {
   // printf("Banana prata     1       15.00\n");
   // printf("Laraja          10       20.00\n");
   // printf("Maça Fuji        6       30.00\n");
+  // 
 
   return 0;
 }

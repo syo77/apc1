@@ -20,6 +20,7 @@ int main() {
   printf("ITEM           QTD VALOR      \n");
 
   printf("%-14s %03i %11.2f\n", nome, quantidade, valor);
+  //
 
   return 0;
 }
