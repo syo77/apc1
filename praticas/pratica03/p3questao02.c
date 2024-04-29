@@ -17,17 +17,21 @@ int main() {
   if (deu_certo) {
 
     if (valor_bruto >= 0.00f && valor_bruto <= 100.00f) {
-      desconto = valor_bruto * 0.01;
-      printf("O desconto %.2f é de:\n ", desconto);
-    } else if (valor_bruto >= 100.01f && valor_bruto <= 500.00) {
-      desconto = valor_bruto * 0.05;
-      printf("O desconto %.2f é de:\n", desconto);
+      desconto = valor_bruto * 0.01f;
+      printf("O desconto é de %.2f:\n ", desconto);
+    } else if (valor_bruto >= 100.01f && valor_bruto <= 500.00f) {
+      desconto = valor_bruto * 0.05f;
+      printf("O desconto é de %.2f:\n", desconto);
+    } else {
+      desconto = valor_bruto * 0.10f;
+      printf("O desconto é de %.2f:\n", desconto);
     }
+
+    float valor_final = valor_bruto - desconto;
+    printf("O valor final é %.2f:\n", valor_final);
   } else {
-    desconto = valor_bruto * 0.10;
+    printf("O valor é inválido. Tente novamente!\n");
   }
-  float valor_final = valor_bruto - desconto;
-  printf("O valor final é %.2f:\n", valor_final);
 
   return 0;
 }
