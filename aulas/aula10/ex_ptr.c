@@ -2,10 +2,11 @@
 
 int main () {
 
-char namorada = "Marina"
-*amor = &namorada
+int cachorro = 1;
+int *dog = &cachorro;
 
-printf("%c", amor)
+printf("%d\n", *dog);
+printf("%p\n", dog);
 
     return 0;
 }
